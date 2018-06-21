@@ -1,0 +1,33 @@
+Summary
+
+The person on the other end needs combining in excel.The time was set up the next day but later was scheduled on monday.
+The person working on contract basis needed to talk face-to-face rather than skype or a phone call.The person wants to come up with questions 
+on the database. 10 genuine questions.Th person wants the database to be regenerted. The database should be reusable.
+The main part was t add THE DELETE function.Referential integrity should be maintained while doing this.Three steps will be there 1)extrac the data 2) transform the data
+Transform the data into pandas dataframe.The person wants the code base to be more generic.The information given includes
+1) pandas dataframe.teradata 2) connection 3)dataframe 4) database connection 5)table space 6)name of table. view
+
+Prioriy flow 
+1) Campaign summary 
+2)side project
+3)code
+
+There some error in the project that were first thought to unbounded error later the issue was regarding the parametere
+The date for the meeting was set on Monday with points like 1) Planning fir campaging summary
+2)Three code review and 10 QUESTIONS
+3)Completing the side project
+
+
+
+MOM-
+
+ATTENDING- The client and the employee face-to face meeting.
+
+Discussion on Monday- 10 Questions of data.Data reusability,Campaign summary,Side project,
+
+Excpections- Database questions, Faster running of code, Reducable, Reusable,Speedup in the query run, Unit test,Clean the code 
+
+
+Assumption
+
+1)The dataset provided is the right one with all the needed information for transforming it.
